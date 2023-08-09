@@ -1,0 +1,23 @@
+[
+    { "id": "1",
+      "firstName": "Ahmet",
+      "lastName": "Yılmaz",
+      "tarih": "25 Eylül 2001",
+      "imageUrl": "https://example.com/images/ahmet.jpg"
+    },
+    {
+      "id": "2",
+      "firstName": "Ayşe",
+      "lastName": "Kara",
+      "tarih": "25 Eylül 2001",
+      "imageUrl": "https://example.com/images/ayse.jpg"
+    },
+    {
+      "id": "3",
+      "firstName": "Ayşe",
+      "lastName": "Kara",
+      "tarih": "25 Eylül 2001",
+      "imageUrl": "https://example.com/images/ayse.jpg"
+    }
+]
+  
